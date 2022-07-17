@@ -1,0 +1,125 @@
+1. What is a language ?
+	It is a medium of communication between 2 entities or multiple entities
+
+2. What is a program ?
+	It is the set of instructions given to the computer.
+
+3. What is programming language?
+	It is a mode of communication between human and the computer where the
+humans instruct the computer to perform some actions.
+
+4. What is the most important aspect of a computer?
+	Central Processing Unit (CPU) ~ Microprocessor
+	Microprocessor is made up of semiconductor technology.
+	( Made up of transistors (npn or pnp) )
+	All semiconductor devices require constant power supply
+	The microprocessor can under only voltages (0v or 5v) ~ H/w engineers
+	The microprocessor can under only binary (0 or 1) ~ S/w engineers
+
+5. What are the different categories of Programming language ?
+	--> Machine Level Language	(MLL)
+				It is a language in which the instruction are given in terms of 
+binary 0 and biunary 1
+
+	--> Assembly Level Language (ALL)
+				It is a language in which the instruction are given in terms of 
+neumonics which will be given to another software called as the Assemebler 
+which will convert the ALL code to MLL because the processor can understand
+only binary 0 and binary 1.
+
+	--> High Level Language (HLL)
+				It is a language in which the instruction are given in terms of 
+human understandable manner and these instruction will be given to another 
+software called as the Compiler which will convert the HLL code to MLL 
+because the processor can understand only binary 0 and binary 1.
+
+6. What are the famous HLL that were present before java ?
+	--> Basic Combined Programming Language (BCPL)
+			Disdvantages:	
+				It occupied more memory
+				It was unstructured
+
+	--> B language
+			Disdvantages:	
+				It was unstructured
+				It was non-portable
+				It was non-object oriented
+
+	--> C language
+			Disdvantages:	
+				It was non-portable
+				It was non-object oriented
+
+	--> C++ Language
+			Disdvantages:	
+				It was non-portable
+
+	--> Java Language
+			Advantage:
+				It occupied less memory
+				It is portable
+				It is object oriented
+				It supports internet
+		
+7. What is non-portability?
+		It is a feature where a program written and complied in 1 platform 
+cannot be executed in another platform
+	--> We can send HLL through the network but we should not send because
+of the presence of Hacker.
+	
+8. What is a platform?
+		It is a combination of Hardware (mp) and Software (os)
+		(Since we are software engineers we focus only on software)
+
+9. What is portability?
+		It is a feature where a program written and complied in 1 platform 
+can be executed in any other platform.
+	Other names for portability are:
+		--> Platform Independency
+		--> Arch Neutrality
+		--> Write once run anywhere feature (WORA)
+		--> Portability
+
+10. Which are the 3 important memory devices of a computer ?
+		--> Microprocessor
+		--> Ramdom Access Memory	(Primary Memory)
+		--> Hard Disk Drive				(Seondary Memory)
+
+11. Why should the computer have the above 3 important memory devices ??
+		There is a expectation from the programmer that his memory devices must be:
+			--> Fast
+			--> Compact
+			--> Cheap
+			--> Non-Volatile 
+	But all these 4 expectations cannot be fulfilled by a single memory device. Hence we have 3
+important memory devices.
+			--> Fast				(RAM)
+			--> Compact			(RAM)	
+			--> Cheap				(HDD)
+			--> Non-Volatile 	(HDD)
+
+12. What is the meaning of the term orientation ??
+		--> Rotation			X
+		--> Direction			X
+		--> Organization		X
+		--> Aim				X
+		--> State				X
+		--> Way of looking  X
+		--> Point of view 	X
+		--> Perspective 		YES
+
+13. What is an Object ??
+		An object is defined as the real world entity which has an existence
+
+14. What is obejct orientation ??
+		Perspective towards a real world entity is called as object orientation
+
+15. What are the principles of Object orientation ?
+		We have 5 important principles of object orientation:
+		--> The world is collection of objects
+		--> No object is useless every object is useful
+		--> Every object is under constant interaction and no object is isolated.
+		--> Every object belongs to one type and that type in Object Orientation we call it as 
+			 a class and the class doesnot exist in reality.
+		--> Every object has something and does something
+		
